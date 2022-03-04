@@ -13,3 +13,45 @@ body {
   #root{
     height: 100vh;
   }
+
+  button{
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  width: 200px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #0D0D0C;
+  font:bold 30px/100% Verdana, Tahoma, sans-serif;
+  background-color: #d8e6d9;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+    
+   
+  }
+  button:hover {background-color: #d8e6d9}
+
+  button:active {
+    background-color: #d8e6d9;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .icon1{
+    position: relative;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+    left: 250px;
+  }
+
+  .icon2{
+    position: relative;
+    top: 150px;
+    bottom:0 ;
+    right: 0;
+    left: 680px;
