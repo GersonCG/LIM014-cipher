@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   outline: none;
   color: #0D0D0C;
-  font:bold 30px/100% Verdana, Tahoma, sans-serif;
+  font:bold 20px/100% Verdana, Tahoma, sans-serif;
   background-color: #d8e6d9;
   border: none;
   border-radius: 15px;
@@ -55,3 +55,14 @@ body {
     bottom:0 ;
     right: 0;
     left: 680px;
+  }
+
+  .iconsolo{
+    position: relative;
+    bottom: 67px;
+    left: 646px;
+    font-size: 34px;
+    color: black;
+  }
+
+  
