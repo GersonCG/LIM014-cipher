@@ -50,6 +50,7 @@ body {
   }
 
   .icon2{
+    
     position: relative;
     top: 150px;
     bottom:0 ;
@@ -59,10 +60,10 @@ body {
 
   .iconsolo{
     position: relative;
-    bottom: 67px;
-    left: 646px;
-    font-size: 34px;
+    bottom: 15%;
+    left: 95%;
+    font-size: 50px;
     color: black;
   }
 
-  
+ 
